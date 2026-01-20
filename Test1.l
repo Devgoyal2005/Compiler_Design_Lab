@@ -4,7 +4,7 @@
 
 %%
 
-[a-zA-Z]+   { printf("\t it is a word \n"); }
+[a-z A-Z]+   { printf("\t it is a word \n"); }
 .*          { printf("Invalid\n"); }
 
 %%
