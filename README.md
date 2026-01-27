@@ -14,4 +14,4 @@ How to run?
 
 1. flex Test1.l
 2. gcc lex.yy.c
-3. a
+3. a or a < input.txt
